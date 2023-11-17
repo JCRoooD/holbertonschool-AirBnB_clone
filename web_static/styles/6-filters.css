@@ -74,9 +74,6 @@ button:hover {
     padding-left: 0;
 }
 
-.amenities:hover .popover h3 {
-    f
-}
 .popover {
     display: none;
     box-sizing: border-box;
